@@ -1,7 +1,7 @@
 # Flask-with-Database
 
-## pip3 install -r requirements.txt
+### pip3 install -r requirements.txt
 
-## Run the application by executing the command python3 app.py
+### Run the application by executing the command python3 app.py
 
-## The application runs on localhost:5000
+### The application runs on localhost:5000
